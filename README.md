@@ -2,7 +2,7 @@
 
 A responsive HTML/CSS/JavaScript tournament management dashboard inspired by the provided designs.
 
-## Run in VS Code
+## Run in VS Code (This is optional. No need to download the ZIP file.)
 1. Extract the ZIP file.
 2. Open the `rizal-sports-tournament` folder in VS Code.
 3. Run `index.html` using the **Live Server** extension (recommended), or open `index.html` directly in a browser.
